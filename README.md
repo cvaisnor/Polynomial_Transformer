@@ -41,4 +41,4 @@ python3 model.py --max_epochs=(Any int) # default is 10
 # To visualize the PyTorch Lightning Trainer process:
 ```python
 python3 model.py --fast_dev_run
-```# Polynomial_Transformer
+```
