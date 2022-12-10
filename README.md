@@ -19,7 +19,7 @@ DockerHub Image: 705.603_chrisvaisnor:system_project
 Link: https://hub.docker.com/repository/docker/cvaisnor/705.603_chrisvaisnor
 
 # Dashboard:
-The Weights and Biases (Wandb) dashboard can be seen here: https://wandb.ai/chrisvaisnor/system_project?workspace=user-chrisvaisnor. This displays a number of graphs for comparing model configurations as well as showing showing system performance information. 
+The Weights and Biases (Wandb) dashboard can be seen here: https://wandb.ai/chrisvaisnor/system_project?workspace=user-chrisvaisnor. This displays a number of graphs for comparing model configurations as well as showing system performance information. 
 
 The default model configuration is the RED label corresponding to (hid_dim=256, layers=3, batch_size=512).
 
